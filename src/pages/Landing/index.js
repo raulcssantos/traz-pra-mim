@@ -6,6 +6,8 @@ import TrazPraMimBtn from './TrazPraMimBtn.svg';
 import Icon1 from './Icon1.svg';
 import Icon2  from './Icon2.svg';
 import Icon3 from './Icon3.svg';
+import BgkBlue from './BkgBlue.svg';
+import FotoLand from './FotoLand.png';
 
 const StyledLogo = styled.div`
   padding: 35px 0px 0px 140px;
@@ -16,6 +18,12 @@ const Row = styled.div`
   flex-direction: row;
   justify-content: space-between;
 
+`
+
+const Row2 = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 `
 const MenuItens = styled.div`
   padding: 0px 140px 0px 0px;
@@ -80,11 +88,40 @@ const ColumnCont = styled.div`
   padding:  0px 150px 0px 150px;
  `
 
+ const ColumnCont2 = styled.div`
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-size: 45px;
+  padding: 60px 0px 0px 0px;
+  `
+
 const TextCont = styled.div`
   font-size: 30px;
   font-weight: regular;
   text-align: center;
   padding: 50px 0px 0px 0px;
+`
+
+const DescriptionBox = styled.div`
+  position: absolute;
+  top: 1730px;
+  left: 260px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+`
+
+const FotoLanding = styled.div`
+  padding: 0px 0px 150px 150px;
+
+`
+
+const TextBox = styled.div`
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  padding: 55px 0px 0px 0px;
 `
 
 export const Landing = () => {
@@ -144,9 +181,29 @@ export const Landing = () => {
               consectetur 
             </TextCont>
           </ColumnCont>
-        
         </ContentIcons>
-        </SecondBkg> 
+
+        <img src={BgkBlue} alt="" width="100%"/>
+        <DescriptionBox>
+          <ColumnCont2>
+            <strong>Quem Somos</strong>
+            <TextBox>
+            magna aliqua. Sed lectus vestibulum mattis ullamcorper <br/> 
+            velit sed ullamcorper. Consequat interdum varius sit amet <br/>
+             mattis vulputate enim nulla. Odio pellentesque diam <br/>
+             volutpat commodo sed egestas egestas fringilla. Cursus <br/>
+              risus at ultrices mi tempus imperdiet nulla. Faucibus purus. 
+            </TextBox> 
+
+          
+          </ColumnCont2>
+        <FotoLanding>
+          <img src={FotoLand} alt="" width="125%" height="100%" />
+        </FotoLanding>  
+        </DescriptionBox>
+      </SecondBkg>
+
+        
     </Fragment> 
             
   );
