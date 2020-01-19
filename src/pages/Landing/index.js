@@ -105,7 +105,7 @@ const TextCont = styled.div`
 
 const DescriptionBox = styled.div`
   position: absolute;
-  top: 1730px;
+  bottom: -1100px;
   left: 260px;
   display: flex;
   flex-direction: row;
@@ -128,9 +128,6 @@ const Footer = styled.div`
   background-color: #1D2A2B;
   width: 100vw;
   height: 120px;
-
-
-
 `
 
 export const Landing = () => {
@@ -207,7 +204,7 @@ export const Landing = () => {
           
           </ColumnCont2>
         <FotoLanding>
-          <img src={FotoLand} alt="" width="125%" height="100%" />
+          <img src={FotoLand} alt="" />
         </FotoLanding>  
         </DescriptionBox>
       </SecondBkg>
