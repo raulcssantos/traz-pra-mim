@@ -72,7 +72,7 @@ const Text = styled.div`
 const SecondBkg = styled.div`
   background-color: #FFF5CC;
   width: 100vw;
-  height: 100vh;
+  height: 88vh;
 `
 
 const ContentIcons = styled.div`
@@ -122,6 +122,15 @@ const TextBox = styled.div`
   font-size: 30px;
   font-weight: lighter;
   padding: 55px 0px 0px 0px;
+`
+
+const Footer = styled.div`
+  background-color: #1D2A2B;
+  width: 100vw;
+  height: 120px;
+
+
+
 `
 
 export const Landing = () => {
@@ -202,7 +211,14 @@ export const Landing = () => {
         </FotoLanding>  
         </DescriptionBox>
       </SecondBkg>
+    <Row>
+      <Footer>
 
+      </Footer>
+
+
+
+    </Row>
         
     </Fragment> 
             
