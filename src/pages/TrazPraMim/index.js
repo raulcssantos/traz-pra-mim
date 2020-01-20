@@ -23,7 +23,7 @@ const TextHeader = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  top: 5px;
+  top: -5px;
   right: 140px;
   color: white;
   font-weight: regular;
@@ -46,7 +46,7 @@ const StaffPhoto = styled.div`
   position: absolute;
   display: flex;
   flex-direction: row;
-  top: 1500px;
+  top: 1530px;
   right: 140px;
 `
 
