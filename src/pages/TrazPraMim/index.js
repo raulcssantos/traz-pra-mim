@@ -46,7 +46,7 @@ const StaffPhoto = styled.div`
   position: absolute;
   display: flex;
   flex-direction: row;
-  top: 1530px;
+  top: 1545px;
   right: 140px;
 `
 
