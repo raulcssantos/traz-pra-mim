@@ -23,7 +23,7 @@ const TextHeader = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  top: 20px;
+  top: 5px;
   right: 140px;
   color: white;
   font-weight: regular;
@@ -46,7 +46,7 @@ const StaffPhoto = styled.div`
   position: absolute;
   display: flex;
   flex-direction: row;
-  top: 1550px;
+  top: 1500px;
   right: 140px;
 `
 
@@ -55,7 +55,7 @@ const FooterInfo = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  top: 2400px;
+  top: 2000px;
   left: 140px;
   color: #B2B2B2;
   font-size: 20px;
@@ -68,7 +68,7 @@ const FooterInfo2 = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  top: 2400px;
+  top: 2000px;
   right: 140px;
   color: #B2B2B2;
   font-size: 20px;
