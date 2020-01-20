@@ -9,6 +9,6 @@ export const Routes = () => (
       <Route exact path="/login" component={Login} />
       <Route exact path="/signup" component={SignUp} />
       <Route exact path="/trazPraMim" component={TrazPraMim} />
-      <Route component={NotFound} />
+      <Route component={Landing} />
     </Switch>
 );

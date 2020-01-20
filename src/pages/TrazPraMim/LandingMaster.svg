@@ -1,0 +1,283 @@
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .cls-2 {
+        fill: #64a55f;
+      }
+
+      .cls-3 {
+        fill: #ca6065;
+      }
+
+      .cls-4 {
+        fill: #d8d8d8;
+      }
+
+      .cls-21, .cls-5 {
+        fill: #2c2c2c;
+      }
+
+      .cls-6 {
+        fill: #f1d25a;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #d8d8d8;
+        stroke-width: 1.65px;
+      }
+
+      .cls-8 {
+        fill: #59a150;
+      }
+
+      .cls-10, .cls-14, .cls-15, .cls-16, .cls-21, .cls-23, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-10 {
+        font-size: 45px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-15, .cls-16, .cls-23 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        opacity: 0.8;
+      }
+
+      .cls-15, .cls-16 {
+        font-size: 20px;
+      }
+
+      .cls-15, .cls-21 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-16 {
+        font-family: SegoeUI-Italic, Segoe UI;
+        font-style: italic;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-19 {
+        fill: #faf0c9;
+      }
+
+      .cls-20 {
+        fill: #1b292a;
+      }
+
+      .cls-21, .cls-23 {
+        font-size: 30px;
+      }
+
+      .cls-22 {
+        fill: #107888;
+      }
+
+      .cls-23 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.13em;
+      }
+
+      .cls-25 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-27 {
+        letter-spacing: -0.06em;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="960" y1="1082.23" x2="960" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a9fb8"/>
+      <stop offset="0" stop-color="#004d58"/>
+      <stop offset="0.61" stop-color="#2a9fb8"/>
+      <stop offset="1" stop-color="#3ba3c1"/>
+    </linearGradient>
+  </defs>
+  <title>svgPrancheta 1</title>
+  <rect class="cls-1" width="1920" height="1082.23" transform="translate(1920 1082.23) rotate(180)"/>
+  <path id="Caminho_60" data-name="Caminho 60" class="cls-2" d="M899.9,798.78h262.42s22.74-332.4-166.2-337.65S899.9,798.78,899.9,798.78Z"/>
+  <path id="Caminho_61" data-name="Caminho 61" class="cls-2" d="M1283.85,862.63H1021.43S998.68,530.23,1187.63,525,1283.85,862.63,1283.85,862.63Z"/>
+  <g id="Grupo_39" data-name="Grupo 39">
+    <g id="Grupo_30" data-name="Grupo 30">
+      <rect id="Retângulo_17" data-name="Retângulo 17" class="cls-3" x="1200.97" y="305.06" width="248.43" height="255.43" transform="translate(-66.35 516.62) rotate(-21.53)"/>
+      <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-4" x="1157.63" y="313.3" width="248.43" height="19.24" transform="translate(-29.06 493.04) rotate(-21.53)"/>
+      <rect id="Retângulo_19" data-name="Retângulo 19" class="cls-4" x="1210.51" y="355.18" width="12.11" height="248.43" transform="translate(-91.05 480.01) rotate(-21.53)"/>
+      <rect id="Retângulo_20" data-name="Retângulo 20" class="cls-4" x="1430.33" y="268.44" width="12.11" height="248.43" transform="translate(-43.86 554.64) rotate(-21.53)"/>
+      <rect id="Retângulo_21" data-name="Retângulo 21" class="cls-4" x="1200.98" y="429.74" width="248.43" height="6.06" transform="translate(-66.35 516.62) rotate(-21.53)"/>
+    </g>
+    <g id="Grupo_31" data-name="Grupo 31">
+      <path id="Caminho_62" data-name="Caminho 62" class="cls-4" d="M1227.18,455.07l34.13-13.47-19-48.1s-5.16-6.25-19.9-.44S1208,406.39,1208,406.39Z"/>
+      <path id="Caminho_63" data-name="Caminho 63" class="cls-5" d="M1227.75,451.88l31-12.22L1241.5,396s-4.68-5.67-18-.4-13.12,12.09-13.12,12.09Z"/>
+    </g>
+    <g id="Grupo_32" data-name="Grupo 32">
+      <path id="Caminho_64" data-name="Caminho 64" class="cls-4" d="M1273.69,436.71l34.13-13.46-19-48.1s-5.16-6.26-19.9-.44S1254.48,388,1254.48,388Z"/>
+      <path id="Caminho_65" data-name="Caminho 65" class="cls-5" d="M1274.27,433.52l31-12.22L1288,377.68s-4.68-5.68-18-.4-13.12,12.09-13.12,12.09Z"/>
+    </g>
+    <g id="Grupo_33" data-name="Grupo 33">
+      <path id="Caminho_66" data-name="Caminho 66" class="cls-4" d="M1332.62,413.46,1366.75,400l-19-48.09s-5.16-6.26-19.9-.44-14.47,13.33-14.47,13.33Z"/>
+      <path id="Caminho_67" data-name="Caminho 67" class="cls-5" d="M1333.19,410.27l31-12.22-17.21-43.62s-4.68-5.68-18-.4-13.12,12.09-13.12,12.09Z"/>
+    </g>
+    <g id="Grupo_34" data-name="Grupo 34">
+      <path id="Caminho_68" data-name="Caminho 68" class="cls-4" d="M1380.53,394.56l34.13-13.47-19-48.09s-5.16-6.26-19.9-.45-14.46,13.33-14.46,13.33Z"/>
+      <path id="Caminho_69" data-name="Caminho 69" class="cls-5" d="M1381.1,391.36l31-12.21-17.21-43.63s-4.68-5.67-18-.4-13.12,12.09-13.12,12.09Z"/>
+    </g>
+    <path id="Caminho_70" data-name="Caminho 70" class="cls-6" d="M1281.4,321.8l-154.93,61.13,69.76-50.1,69.75-50.1,85.18-11,85.17-11Z"/>
+    <g id="Grupo_35" data-name="Grupo 35">
+      <path id="Caminho_71" data-name="Caminho 71" class="cls-4" d="M1279.65,588l34.13-13.47-28.68-72.7s-6.61-9.92-21.35-4.11-13.13,16.7-13.13,16.7Z"/>
+      <path id="Caminho_72" data-name="Caminho 72" class="cls-5" d="M1279.7,583.53l31-12.22-26-65.94s-6-9-19.36-3.73-11.91,15.15-11.91,15.15Z"/>
+    </g>
+    <g id="Grupo_36" data-name="Grupo 36">
+      <path id="Caminho_73" data-name="Caminho 73" class="cls-4" d="M1326.16,569.68l34.13-13.47-28.68-72.69s-6.61-9.93-21.35-4.11-13.13,16.7-13.13,16.7Z"/>
+      <path id="Caminho_74" data-name="Caminho 74" class="cls-5" d="M1326.22,565.18l31-12.22-26-65.94s-6-9-19.36-3.73-11.92,15.15-11.92,15.15Z"/>
+    </g>
+    <g id="Grupo_37" data-name="Grupo 37">
+      <path id="Caminho_75" data-name="Caminho 75" class="cls-4" d="M1385.09,546.43,1419.22,533l-28.68-72.69s-6.61-9.93-21.35-4.11-13.13,16.7-13.13,16.7Z"/>
+      <path id="Caminho_76" data-name="Caminho 76" class="cls-5" d="M1385.15,541.92l31-12.22-26-65.94s-6-9-19.36-3.72-11.92,15.14-11.92,15.14Z"/>
+    </g>
+    <g id="Grupo_38" data-name="Grupo 38">
+      <path id="Caminho_77" data-name="Caminho 77" class="cls-4" d="M1433,527.52l34.13-13.46-28.68-72.7s-6.61-9.92-21.35-4.11S1404,454,1404,454Z"/>
+      <path id="Caminho_78" data-name="Caminho 78" class="cls-5" d="M1433.05,523l31-12.22-26-65.94s-6-9-19.36-3.73-11.91,15.15-11.91,15.15Z"/>
+    </g>
+  </g>
+  <g id="Grupo_43" data-name="Grupo 43">
+    <g id="Grupo_40" data-name="Grupo 40">
+      <path id="Caminho_79" data-name="Caminho 79" class="cls-4" d="M1675.84,476.88l47.61,6.06,100.1-186.61-13.93-156.24-10.9-1.39,1.32,150Z"/>
+      <polygon class="cls-4" points="1920.11 490.14 1853.38 295.46 1892.22 150.6 1881.32 149.21 1828.71 296.98 1878.89 502.71 1920.11 507.96 1920.11 490.14"/>
+      <rect id="Retângulo_22" data-name="Retângulo 22" class="cls-4" x="1834.87" y="146.36" width="11.56" height="72.28" transform="matrix(0.13, -0.99, 0.99, 0.13, 1427.68, 1985.49)"/>
+      <rect id="Retângulo_23" data-name="Retângulo 23" class="cls-4" x="1817.93" y="283.29" width="15.61" height="23.71" transform="matrix(0.13, -0.99, 0.99, 0.13, 1302.89, 2069.14)"/>
+    </g>
+    <g id="Grupo_41" data-name="Grupo 41">
+      <path class="cls-7" d="M1887.12,153.38q15.75,34.47,31.47,69"/>
+      <path class="cls-7" d="M1886.87,161.72C1897,190,1908,218,1918.79,245.6"/>
+      <path class="cls-7" d="M1884.44,167.1c9.36,27,18.22,54.25,26.84,81.54q3.71,11.7,7.35,23.42"/>
+      <path class="cls-7" d="M1882.7,173.87C1895,222,1906,271,1918.76,319.19"/>
+    </g>
+    <g id="Grupo_42" data-name="Grupo 42">
+      <line id="Linha_14" data-name="Linha 14" class="cls-7" x1="1802.21" y1="147.43" x2="1545.88" y2="465.19"/>
+      <line id="Linha_15" data-name="Linha 15" class="cls-7" x1="1800.36" y1="155.57" x2="1575.31" y2="470.98"/>
+      <line id="Linha_16" data-name="Linha 16" class="cls-7" x1="1801.37" y1="161.38" x2="1604.81" y2="472.69"/>
+      <line id="Linha_17" data-name="Linha 17" class="cls-7" x1="1801.35" y1="168.37" x2="1634.5" y2="476.47"/>
+    </g>
+  </g>
+  <g id="Grupo_52" data-name="Grupo 52">
+    <rect id="Retângulo_24" data-name="Retângulo 24" class="cls-8" x="1474.3" y="307.88" width="170.04" height="174.83" transform="translate(-46.98 308.44) rotate(-11.13)"/>
+    <rect id="Retângulo_25" data-name="Retângulo 25" class="cls-4" x="1458.7" y="309.4" width="170.04" height="13.17" transform="translate(-31.96 303.94) rotate(-11.13)"/>
+    <rect id="Retângulo_26" data-name="Retângulo 26" class="cls-4" x="1476.29" y="328.23" width="8.29" height="170.04" transform="translate(-51.93 293.55) rotate(-11.13)"/>
+    <rect id="Retângulo_27" data-name="Retângulo 27" class="cls-4" x="1635.03" y="297.01" width="8.29" height="170.04" transform="translate(-42.92 323.61) rotate(-11.13)"/>
+    <rect id="Retângulo_28" data-name="Retângulo 28" class="cls-4" x="1474.31" y="393.24" width="170.04" height="4.15" transform="translate(-46.98 308.44) rotate(-11.13)"/>
+    <g id="Grupo_44" data-name="Grupo 44">
+      <path id="Caminho_81" data-name="Caminho 81" class="cls-4" d="M1490.59,398.21l24.65-4.85-6.83-34.73s-2.7-4.85-13.35-2.76-11.38,7.19-11.38,7.19Z"/>
+      <path id="Caminho_82" data-name="Caminho 82" class="cls-5" d="M1491.37,396.13l22.36-4.4-6.2-31.5s-2.45-4.4-12.1-2.5-10.33,6.52-10.33,6.52Z"/>
+    </g>
+    <g id="Grupo_45" data-name="Grupo 45">
+      <path id="Caminho_83" data-name="Caminho 83" class="cls-4" d="M1524.18,391.6l24.65-4.85L1542,352s-2.7-4.85-13.35-2.76-11.39,7.19-11.39,7.19Z"/>
+      <path id="Caminho_84" data-name="Caminho 84" class="cls-5" d="M1525,389.52l22.36-4.4-6.2-31.5s-2.45-4.4-12.1-2.5-10.33,6.52-10.33,6.52Z"/>
+    </g>
+    <g id="Grupo_46" data-name="Grupo 46">
+      <path id="Caminho_85" data-name="Caminho 85" class="cls-4" d="M1566.73,383.23l24.65-4.85-6.83-34.73s-2.7-4.85-13.34-2.76-11.39,7.19-11.39,7.19Z"/>
+      <path id="Caminho_86" data-name="Caminho 86" class="cls-5" d="M1567.52,381.15l22.35-4.4-6.2-31.5s-2.45-4.4-12.1-2.5-10.33,6.52-10.33,6.52Z"/>
+    </g>
+    <g id="Grupo_47" data-name="Grupo 47">
+      <path id="Caminho_87" data-name="Caminho 87" class="cls-4" d="M1601.33,376.42l24.65-4.85-6.83-34.73s-2.7-4.85-13.35-2.75-11.38,7.18-11.38,7.18Z"/>
+      <path id="Caminho_88" data-name="Caminho 88" class="cls-5" d="M1602.11,374.34l22.36-4.4-6.2-31.5s-2.45-4.4-12.1-2.5-10.33,6.52-10.33,6.52Z"/>
+    </g>
+    <path id="Caminho_89" data-name="Caminho 89" class="cls-6" d="M1543.58,315.17l-111.88,22,53.16-25.11L1538,287l58.72,3.1,58.71,3.1Z"/>
+    <g id="Grupo_48" data-name="Grupo 48">
+      <path id="Caminho_90" data-name="Caminho 90" class="cls-4" d="M1509.48,494.23l24.65-4.85-10.33-52.5s-3.22-7.5-13.86-5.4S1499,441.1,1499,441.1Z"/>
+      <path id="Caminho_91" data-name="Caminho 91" class="cls-5" d="M1510.07,491.2l22.36-4.4-9.37-47.62s-2.92-6.8-12.57-4.9-9.9,8.73-9.9,8.73Z"/>
+    </g>
+    <g id="Grupo_49" data-name="Grupo 49">
+      <path id="Caminho_92" data-name="Caminho 92" class="cls-4" d="M1543.07,487.62l24.65-4.85-10.33-52.5s-3.22-7.5-13.86-5.4-10.91,9.62-10.91,9.62Z"/>
+      <path id="Caminho_93" data-name="Caminho 93" class="cls-5" d="M1543.67,484.6l22.35-4.4-9.36-47.62s-2.92-6.8-12.58-4.91-9.89,8.73-9.89,8.73Z"/>
+    </g>
+    <g id="Grupo_50" data-name="Grupo 50">
+      <path id="Caminho_94" data-name="Caminho 94" class="cls-4" d="M1585.62,479.25l24.65-4.85L1600,421.9s-3.23-7.5-13.87-5.4-10.91,9.62-10.91,9.62Z"/>
+      <path id="Caminho_95" data-name="Caminho 95" class="cls-5" d="M1586.22,476.22l22.36-4.4-9.37-47.61s-2.92-6.8-12.58-4.9-9.89,8.72-9.89,8.72Z"/>
+    </g>
+    <g id="Grupo_51" data-name="Grupo 51">
+      <path id="Caminho_96" data-name="Caminho 96" class="cls-4" d="M1620.22,472.45l24.65-4.85-10.33-52.5s-3.22-7.5-13.86-5.41-10.91,9.62-10.91,9.62Z"/>
+      <path id="Caminho_97" data-name="Caminho 97" class="cls-5" d="M1620.81,469.42l22.36-4.4-9.37-47.62s-2.92-6.8-12.57-4.91-9.9,8.73-9.9,8.73Z"/>
+    </g>
+  </g>
+  <path id="Caminho_99" data-name="Caminho 99" class="cls-4" d="M755.19,956.2l-20.64-91.89s-6.58,1.48-6.73-5.94l-11.3-46.06a18,18,0,0,1-5.53-8.7S687.44,695.3,685.57,684.32c0,0-14.87.64-28.49-4.42,0,0-29.52,1-40.72-1.13,0,0-12.56-4.92-21.4-28.78l-5.84-2.13s-21.75,3.91-42.32-6.88L545,638.31l-2-.54.69-3.22,2.6-.8,1.66-1.66,12.78.7s-5.47-3.64-1.15-4.27c0,0,16.72-1.21,26.16,6.06l5.83,1,.52-1.55,17.51,4.1s24.55-4.07,29.22-2.5l23.16-8,.09-1.87s28.72-12.29,30.33-11.4l-8.23-42.08s1.78-17.65,17.92-10.36c0,0,6.32,4.76,10.3,18.79l10.09,29,47.77.11,9.59,4.22s37.34-5.23,41.68-6.1l.32,1.06,3.71-1s.14-7.44,17.17-8.74c0,0,3.3.38.94,3.07l.91,1.33,9.9-1.31,1.48,1.28s3.09-.83,2.63.93l-1,1.92L856,607.7l-.29,2.06-.54,1s-13.49,6.8-21.17,7.43l-2-.41-8.13,2.72s-.76,29.7-8,31.7-27.68,3.42-27.68,3.42-7.2,12.84-16.88,14.31L788,718.48s2.29,6.92.66,7.88l-2,1.55,1.07,7.3-1.46,2.88s12.37,33.17,12,39.64l-1.13.69,54.78,148.07Z"/>
+  <path id="Caminho_100" data-name="Caminho 100" class="cls-6" d="M.11,893.73l44.51,9c25.64,5.1,51.44,9.08,77.3,12.62,25.26,3.46,50.58,6.26,76,8.17,46.86,3.52,93.79,5.43,140.79,4.2,27.81-.73,55.61-1.8,83.34-4q38.55-3.1,76.94-8.24,58.35-7.89,116-20.34a1420.21,1420.21,0,0,0,162.53-45.6c99.27-34.31,194.22-79.27,285.29-133.8,49.52-29.65,96.68-63.27,144.3-96.17,67.36-46.53,137-88.74,209.49-125.43,78.44-39.7,159.23-72.48,243.66-94.39a882.67,882.67,0,0,1,108.66-21.2,732.69,732.69,0,0,1,112.13-6c13,.31,25.93,1.28,38.89,2q0,407.4.13,814.8c0,4.62-1.19,5.06-5,5.06q-955-.15-1909.95,0c-4.35,0-5.06-1.14-5-5.54Q.21,1041.24.11,893.73Z"/>
+  <g id="Trazendo_cultura_e_história" data-name="Trazendo cultura e história" class="cls-9">
+    <text class="cls-10" transform="translate(283.3 238.23)"><tspan class="cls-11">T</tspan><tspan x="22.98" y="0">razendo cultura e his</tspan><tspan class="cls-12" x="463.34" y="0">t</tspan><tspan x="480.67" y="0">ó</tspan><tspan class="cls-13" x="508.16" y="0">r</tspan><tspan x="526.25" y="0">ia</tspan></text>
+  </g>
+  <g id="A_Traz_Pra_Mim_é_um_serviço_que_oferece_a_facilidade_de_encomendar_produtos_típicos_de_várias_regiões_do_nosso_Brasil_por_meio_de_viajantes_cadastrados_com_um_método_fácil_e_prático_de_negociação_" data-name="A Traz Pra Mim é um serviço que oferece a facilidade de encomendar produtos típicos de várias regiões do nosso Brasil por meio de viajantes cadastrados com um método fácil e prático de negociação " class="cls-14">
+    <text class="cls-15" transform="translate(283.3 276.23)">A </text>
+    <text class="cls-16" transform="translate(301.68 276.23)"><tspan class="cls-17">T</tspan><tspan class="cls-18" x="9.41" y="0">r</tspan><tspan x="16.38" y="0">az P</tspan><tspan class="cls-18" x="53.26" y="0">r</tspan><tspan x="60.22" y="0">a Mim</tspan></text>
+    <text class="cls-15" transform="translate(416.93 276.23)"><tspan xml:space="preserve"> é um serviço que oferece a facilidade de </tspan></text>
+    <text class="cls-15" transform="translate(283.3 303.23)">encomendar produtos típicos de várias regiões do nosso </text>
+    <text class="cls-15" transform="translate(283.3 330.23)">Brasil por meio de viajantes cadastrados, com um método </text>
+    <text class="cls-15" transform="translate(283.3 357.23)">fácil e prático de negociação</text>
+  </g>
+  <rect id="Retângulo_59" data-name="Retângulo 59" class="cls-19" y="1082.23" width="1920" height="464"/>
+  <rect id="Retângulo_60" data-name="Retângulo 60" class="cls-20" y="2034.23" width="1920" height="125.77"/>
+  <path id="ic_directions_car_24px" data-name="ic directions car 24px" class="cls-5" d="M1010.07,1179a11.22,11.22,0,0,0-10.64-7.68H917a11.3,11.3,0,0,0-10.64,7.68l-15.58,45.55v60.82a7.56,7.56,0,0,0,7.49,7.6h7.49a7.56,7.56,0,0,0,7.49-7.6v-7.6h89.9v7.6a7.57,7.57,0,0,0,7.5,7.6h7.49a7.56,7.56,0,0,0,7.49-7.6v-60.82ZM917,1255a11.41,11.41,0,1,1,11.24-11.57v.17a11.31,11.31,0,0,1-11.21,11.4Zm82.41,0a11.41,11.41,0,1,1,11.24-11.57v.17a11.31,11.31,0,0,1-11.21,11.4Zm-93.65-38L917,1182.75h82.41l11.24,34.21Z"/>
+  <g id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Sed_lectus_vestibulum_mattis_ullamcorper_velit_sed_ullamcorper._Consequat_interdum_varius_sit_amet_mattis_vulputate_enim_nulla._Odio" data-name="Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Consequat interdum varius sit amet mattis vulputate enim nulla. Odio" class="cls-9">
+    <text class="cls-21" transform="translate(872.14 1367.23)">Lorem ipsum </text>
+    <text class="cls-21" transform="translate(863.01 1407.23)">dolor sit amet, </text>
+    <text class="cls-21" transform="translate(881.24 1447.23)">consectetur</text>
+  </g>
+  <g id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Sed_lectus_vestibulum_mattis_ullamcorper_velit_sed_ullamcorper._Consequat_interdum_varius_sit_amet_mattis_vulputate_enim_nulla._Odio-2" data-name="Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Consequat interdum varius sit amet mattis vulputate enim nulla. Odio-2" class="cls-9">
+    <text class="cls-21" transform="translate(1397.14 1367.23)">Lorem ipsum </text>
+    <text class="cls-21" transform="translate(1388.01 1407.23)">dolor sit amet, </text>
+    <text class="cls-21" transform="translate(1406.24 1447.23)">consectetur</text>
+  </g>
+  <g id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Sed_lectus_vestibulum_mattis_ullamcorper_velit_sed_ullamcorper._Consequat_interdum_varius_sit_amet_mattis_vulputate_enim_nulla._Odio-3" data-name="Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Consequat interdum varius sit amet mattis vulputate enim nulla. Odio-3" class="cls-9">
+    <text class="cls-21" transform="translate(371.14 1367.23)">Lorem ipsum </text>
+    <text class="cls-21" transform="translate(362.01 1407.23)">dolor sit amet, </text>
+    <text class="cls-21" transform="translate(380.24 1447.23)">consectetur</text>
+  </g>
+  <path id="ic_room_24px" data-name="ic room 24px" class="cls-5" d="M457,1171.34a42.64,42.64,0,0,0-42.66,42.6v.07c0,32,42.66,79.22,42.66,79.22S499.62,1246,499.62,1214a42.63,42.63,0,0,0-42.6-42.67Zm0,57.9A15.24,15.24,0,1,1,472.2,1214,15.22,15.22,0,0,1,457,1229.24Z"/>
+  <path id="ic_redeem_24px" data-name="ic redeem 24px" class="cls-5" d="M1534.77,1197h-14a19.2,19.2,0,0,0-34.13-17l-3.21,4.3-3.21-4.37a19.25,19.25,0,0,0-35.28,10.65,19.52,19.52,0,0,0,1.15,6.42h-14a12.73,12.73,0,0,0-12.77,12.69v.14l-.06,70.56a12.78,12.78,0,0,0,12.74,12.83h102.73a12.78,12.78,0,0,0,12.83-12.74v-70.65a12.77,12.77,0,0,0-12.74-12.83Zm-32.07-12.84a6.42,6.42,0,1,1-6.42,6.42h0A6.45,6.45,0,0,1,1502.7,1184.17Zm-38.49,0a6.42,6.42,0,1,1-6.42,6.42h0a6.44,6.44,0,0,1,6.41-6.42Zm70.56,96.23H1432.13v-12.83h102.64Zm0-32.07H1432.13v-38.49h32.59L1451.37,1228l10.4,7.51,15.27-20.79,6.41-8.72,6.42,8.72,15.26,20.79,10.4-7.51-13.35-18.15h32.59Z"/>
+  <path id="Caminho_110" data-name="Caminho 110" class="cls-22" d="M1920,1521S808.59,1605.12,0,1472.56v561.88H1920Z"/>
+  <g id="Quem_Somos" data-name="Quem Somos" class="cls-9">
+    <text class="cls-10" transform="translate(157.3 1672.23)">Quem Somos</text>
+  </g>
+  <g id="_magna_aliqua._Sed_lectus_vestibulum_mattis_ullamcorper_velit_sed_ullamcorper._Consequat_interdum_varius_sit_amet_mattis_vulputate_enim_nulla._Odio_pellentesque_diam_volutpat_commodo_sed_egestas_egestas_fringilla._Cursus_risus_at_ultrices_mi_tempus_imperd" data-name=" magna aliqua. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Consequat interdum varius sit amet mattis vulputate enim nulla. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Cursus risus at ultrices mi tempus imperd" class="cls-9">
+    <text class="cls-23" transform="translate(157.3 1752.23)"><tspan xml:space="preserve">  magna aliqua. Sed lectus vestibulum mattis ullamcorper </tspan></text>
+    <text class="cls-23" transform="translate(157.3 1792.23)">velit sed ullamcorpe<tspan class="cls-24" x="249.81" y="0">r</tspan><tspan x="255.94" y="0">. Consequat inte</tspan><tspan class="cls-25" x="460.2" y="0">r</tspan><tspan x="469.5" y="0">dum varius sit amet </tspan></text>
+    <text class="cls-23" transform="translate(157.3 1832.23)">mattis vulputate enim nulla. Odio pellentesque diam </text>
+    <text class="cls-23" transform="translate(157.3 1872.23)">volutpat commodo sed egestas egestas fringilla. Cu<tspan class="cls-26" x="644.94" y="0">r</tspan><tspan x="655.14" y="0">sus </tspan></text>
+    <text class="cls-23" transform="translate(157.3 1912.23)">risus at ultrices mi tempus impe<tspan class="cls-25" x="394.26" y="0">r</tspan><tspan x="403.56" y="0">diet nulla. </tspan><tspan class="cls-27" x="532.91" y="0">F</tspan><tspan x="545.17" y="0">aucibus purus</tspan></text>
+  </g>
+</svg>
